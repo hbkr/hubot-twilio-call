@@ -22,5 +22,7 @@ Then add **hubot-twilio-call** to your `external-scripts.json`:
 
 ```
 user1> hubot call +8180xxxxxxxx hello
-hubot> Calling to +8180xxxxxxxx
+hubot> Call to +8180xxxxxxxx
+user1> hubot sms +8180xxxxxxxx hello
+hubot> Send to +8180xxxxxxxx
 ```
